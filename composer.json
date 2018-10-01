@@ -1,0 +1,7 @@
+{
+    "name": "kirillsimin/laracal",
+    "description": "Calendar plugin with repeatable vents for Laravel",
+    "type": "Larvel plugin",
+    "license": "MIT",
+    "require": {}
+}
